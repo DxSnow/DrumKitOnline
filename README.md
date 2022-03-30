@@ -1,5 +1,5 @@
 # DrumKitOnline
-a website that you can play drum kit with your keyboard
+a website that you can play drum kit with your keyboard. [play here](https://dxsnow.github.io/DrumKitOnline/)
 
 why this project? I'm trying to practice Vanilla Javascript without any framework to gain a thougher understanding of how things work,
 
