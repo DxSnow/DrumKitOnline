@@ -1,5 +1,5 @@
 // listen to the whole page, if a key is pressed, pass that event to a function that renders predefined effects and sound
-document.addEventListener("keydown",playAudio2)
+document.addEventListener("keydown",playAudio)
 // the whole html file is the "document"
 document.addEventListener("touchstart",playAudio2)
 document.addEventListener("click",playAudio2)
